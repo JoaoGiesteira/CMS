@@ -1,0 +1,10 @@
+
+
+return files from folder sorted by date  java
+
+1. Obter todos os nomes dos ficheiros de uma determinada pasta para uma lista do tipo String
+2. Retirar o "R_"
+3. Convertes para inteiro
+4. Ordenar lista
+5. Iterar sobre a lista ordenada e abrir ficheiro
+6. Para cada linha do ficheiro alimentar no arraylist central REGISTOS
